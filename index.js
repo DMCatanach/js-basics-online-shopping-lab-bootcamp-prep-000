@@ -44,3 +44,9 @@ function removeFromCart(item) {
 function placeOrder(cardNumber) {
   // write your code here
 }
+
+//Helpers 
+
+function makeCartItem() {
+  //code that creates two key-value pairs, which we use in addToCart 
+}
